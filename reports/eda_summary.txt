@@ -1,0 +1,26 @@
+EXPLORATORY DATA ANALYSIS SUMMARY
+============================================================
+
+Dataset: telco_churn.csv
+Total Customers: 7,043
+Features: 25
+
+Overall Churn Rate: 26.5%
+
+KEY INSIGHTS:
+------------------------------------------------------------
+
+1. Contract Type (Highest Risk First):
+   - Month-to-month: 42.7% churn
+   - One year: 11.3% churn
+   - Two year: 2.8% churn
+
+2. Monthly Charges:
+   - Churned customers median: $79.65
+   - Retained customers median: $64.43
+   - Difference: $15.22
+
+3. Customer Tenure:
+   - Churned customers median: 10 months
+   - Retained customers median: 38 months
+   - New customers (<=12mo) churn rate: 47.4%

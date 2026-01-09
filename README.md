@@ -1,0 +1,1 @@
+Predict whether a customer will churn next month. Use the model to decide which customers to contact given a retention budget. Optimize for business value, not just accuracy.
