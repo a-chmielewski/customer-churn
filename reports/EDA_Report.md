@@ -157,16 +157,5 @@ Month-to-Month + New Customer (<12mo) + High Charges
 
 ---
 
-## Next Steps
-
-1. ✅ Data loaded and validated
-2. ✅ EDA completed with business insights
-3. ⏭️ **Next**: Feature engineering and preprocessing
-4. ⏭️ Model training with multiple algorithms
-5. ⏭️ Model evaluation and selection
-6. ⏭️ Model interpretation with SHAP/feature importance
-
----
-
 *Analysis Date: January 9, 2026*  
 *Script: `src/churn/eda.py`*
