@@ -278,20 +278,6 @@ joblib >= 1.0.0
 
 ---
 
-## Citation
-
-```bibtex
-@misc{customer_churn_2026,
-  title={Customer Churn Prediction with Business Optimization},
-  author={[Aleksander Chmielewski]},
-  year={2026},
-  publisher={GitHub},
-  howpublished={\url{https://github.com/a-chmielewski/customer-churn}}
-}
-```
-
----
-
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
